@@ -1,0 +1,17 @@
+{
+    "name": "samuelfaj/php-7-fpm-alpine-composer",
+    "authors": [
+        {
+            "name": "Samuel Fajreldines",
+            "email": "samuelfajreldines@gmail.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4.12"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    }
+}
